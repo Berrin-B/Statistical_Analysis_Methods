@@ -2,7 +2,7 @@
 
 This repository contains Python scripts and sample data files for performing statistical analysis, simulations, and data visualization. It is designed for undergraduate Computational Physics course and demonstrates fundamental statistical methods.
 
-## CONTENTS
+## Contents
 
 | File | Description |
 |------|-------------|
